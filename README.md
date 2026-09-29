@@ -4,4 +4,6 @@ My relationship with AI is a complicated one. I was deep in it earlier, but have
 
 While I've already consulted a number of LLM's for problem solving advice, it is time for a more formal setup. I started a Claude subscription and setup Claude Code. I'll see what it can and and can not do as I work on future projects. The first such project is FreeRTOS, and I'm already amazed as well as wary of dangers. The AI journey and eval will be covered in that project.
 
+...
+
 Ok so while I'm late to the party, I'm super blown away by Claude Code. I knew conceptually how an agent works, but seeing is believing. I never would have thought it possible. So now I'm deep diving into agents and how Claude Code works specifically.
