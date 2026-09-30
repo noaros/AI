@@ -7,3 +7,5 @@ While I've already consulted a number of LLM's for problem solving advice, it is
 ...
 
 Ok so while I'm late to the party, I'm super blown away by Claude Code. I knew conceptually how an agent works, but seeing is believing. I never would have thought it possible. So now I'm deep diving into agents and how Claude Code works specifically.
+
+Not only did Claude Code impress on my FreeRTOS work, especially in how it went beyond what I gave it, but on my own Arch install I had a nagging issue where I wasn't getting an alert before the battery died, even though I had taken one pass at fixing the problem. Claude fixed it for me! Apparently I still needed more software to get and display the message alerts. Unbelievable..
